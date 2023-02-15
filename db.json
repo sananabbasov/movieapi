@@ -1,0 +1,256 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "name": "Game of Thrones",
+      "categories": [
+        {
+          "id": 1,
+          "category_name": "Drama"
+        },
+        {
+          "id": 2,
+          "category_name": "History"
+        }
+      ],
+      "description": "Game of Thrones is an American fantasy drama television series created by David Benioff and D. B. Weiss for HBO. It is an adaptation of A Song of Ice and Fire, a series of fantasy novels by George R. R. Martin, the first of which is A Game of Thrones. The show was shot in the United Kingdom, Canada, Croatia, Iceland, Malta, Morocco, and Spain. It premiered on HBO in the United States on April 17, 2011, and concluded on May 19, 2019, with 73 episodes broadcast over eight seasons.",
+      "pictures": "https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg",
+      "trailer_url": "TZE9gVF1QbA",
+      "release_date": 2010,
+      "duration": 50,
+      "seasons": [
+        {
+          "id": 1,
+          "name": "Season 1",
+          "episodes": [
+            {
+              "id": 1,
+              "name": "",
+              "duration": 50,
+              "video_url": ""
+            },
+            {
+              "id": 2,
+              "name": "",
+              "duration": 50,
+              "video_url": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Season 2",
+          "episodes": [
+            {
+              "id": 1,
+              "name": "",
+              "duration": 50,
+              "video_url": ""
+            },
+            {
+              "id": 2,
+              "name": "",
+              "duration": 50,
+              "video_url": ""
+            }
+          ]
+        }
+      ],
+      "types": "series"
+    },
+    {
+      "id": 2,
+      "name": "The Walking Dead",
+      "categories": [
+        {
+          "id": 1,
+          "category_name": "Horror"
+        },
+        {
+          "id": 2,
+          "category_name": "Drama"
+        }
+      ],
+      "description": "Many of Regular Show's characters were loosely based on those developed for Quintel's student films at California Institute of the Arts: The Naïve Man from Lolliland and 2 in the AM PM.[8] The former was one of the winners of the 2005 Nicktoons Film Festival and received international attention after being broadcast on Nicktoons Network.[9] Quintel pitched Regular Show for Cartoon Network's Cartoonstitute project, in which the network allowed young artists to create pilots with no notes, which would possibly be optioned as shows. The series premiered on September 6, 2010, on Cartoon Network.",
+      "pictures": "data:image/jpeg;base64,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",
+      "trailer_url": "sfAc2U20uyg",
+      "release_date": 2010,
+      "duration": 45,
+      "seasons": [
+        {
+          "id": 1,
+          "name": "Season 1",
+          "episodes": [
+            {
+              "id": 1,
+              "name": "",
+              "duration": 45,
+              "video_url": ""
+            },
+            {
+              "id": 2,
+              "name": "",
+              "duration": 45,
+              "video_url": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Season 2",
+          "episodes": [
+            {
+              "id": 1,
+              "name": "",
+              "duration": 45,
+              "video_url": ""
+            },
+            {
+              "id": 2,
+              "name": "",
+              "duration": 45,
+              "video_url": ""
+            }
+          ]
+        }
+      ],
+      "types": "series"
+    },
+    {
+      "id": 3,
+      "name": "Rick & Morty",
+      "categories": [
+        {
+          "id": 1,
+          "category_name": "Cartoon"
+        },
+        {
+          "id": 2,
+          "category_name": "Mystic"
+        }
+      ],
+      "description": "Rick and Morty is an American adult animated science-fiction sitcom created by Justin Roiland and Dan Harmon for Cartoon Network's nighttime programming block Adult Swim. It is distributed internationally by Warner Bros. Television Distribution. The series follows the misadventures of cynical mad scientist Rick Sanchez and his good-hearted but fretful grandson Morty Smith, who split their time between domestic life and interdimensional adventures that take place across an infinite number of realities, often travelling to other planets and dimensions through portals and on Rick's flying saucer. The general concept of Rick and Morty relies on two conflicting scenarios: domestic family drama, and an alcoholic grandfather dragging his grandson into hijinks.",
+      "pictures": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rick_and_Morty_title_card_%28cropped%29.png/375px-Rick_and_Morty_title_card_%28cropped%29.png",
+      "trailer_url": "jerFRSQW9g8",
+      "release_date": 2010,
+      "duration": 25,
+      "seasons": [
+        {
+          "id": 1,
+          "name": "Season 1",
+          "episodes": [
+            {
+              "id": 1,
+              "name": "",
+              "duration": 20,
+              "video_url": ""
+            },
+            {
+              "id": 2,
+              "name": "",
+              "duration": 20,
+              "video_url": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Season 2",
+          "episodes": [
+            {
+              "id": 1,
+              "name": "",
+              "duration": 20,
+              "video_url": ""
+            },
+            {
+              "id": 2,
+              "name": "",
+              "duration": 20,
+              "video_url": ""
+            }
+          ]
+        }
+      ],
+      "types": "cartoon series"
+    },
+    {
+      "id": 4,
+      "name": "Regular Show",
+      "categories": [
+        {
+          "id": 1,
+          "category_name": "Cartoon"
+        },
+        {
+          "id": 2,
+          "category_name": "Adventure"
+        }
+      ],
+      "description": "Regular Show (known as Regular Show in Space during its eighth season)[3] is an American animated sitcom created by J. G. Quintel for Cartoon Network. It ran from September 6, 2010, to January 16, 2017, over the course of eight seasons and 261 episodes.[4][5][6] The series stars Mordecai (a bluejay), Rigby (a raccoon), their coworkers – Skips (a yeti), Pops (a lollipop-shaped man), Muscle Man and Hi-Five Ghost – and their boss, Benson (a gumball machine), all of whom work at a local park as groundskeepers. Mordecai and Rigby spend their days slacking off and trying to avoid work to entertain themselves by any means, which leads to surrealistic, extreme and supernatural misconduct.",
+      "pictures": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Regular_Show_Logo.svg/375px-Regular_Show_Logo.svg.png",
+      "trailer_url": "weF4y2IAsfk",
+      "release_date": 2015,
+      "duration": 25,
+      "seasons": [
+        {
+          "id": 1,
+          "name": "Season 1",
+          "episodes": [
+            {
+              "id": 1,
+              "name": "",
+              "duration": 25,
+              "video_url": ""
+            },
+            {
+              "id": 2,
+              "name": "",
+              "duration": 25,
+              "video_url": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Season 2",
+          "episodes": [
+            {
+              "id": 1,
+              "name": "",
+              "duration": 25,
+              "video_url": ""
+            },
+            {
+              "id": 2,
+              "name": "",
+              "duration": 25,
+              "video_url": ""
+            }
+          ]
+        }
+      ],
+      "types": "cartoon series"
+    },
+    {
+      "id": 5,
+      "name": "Avengers: End Game",
+      "categories": [
+        {
+          "id": 1,
+          "category_name": "Drama"
+        },
+        {
+          "id": 2,
+          "category_name": "Adventure"
+        }
+      ],
+      "description": "Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the direct sequel to Avengers: Infinity War (2018) and the 22nd film in the Marvel Cinematic Universe (MCU). Directed by Anthony and Joe Russo and written by Christopher Markus and Stephen McFeely, the film features an ensemble cast including Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Benedict Wong, Jon Favreau, Bradley Cooper, Gwyneth Paltrow, and Josh Brolin. In the film, the surviving members of the Avengers and their allies attempt to reverse Thanos's actions in Infinity War.",
+      "pictures": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+      "trailer_url": "TcMBFSGVi1c",
+      "release_date": 2019,
+      "duration": 180,
+      "types": "movie"
+    }
+  ]
+}
